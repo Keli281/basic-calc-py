@@ -60,6 +60,10 @@ Great for beginners to learn:
 - Arithmetic operations
 - Clean code practices
 
+## License
+
+This project is open-source. Feel free to use or improve it!
+
 ## Author
 
 Natalie Awinja  
