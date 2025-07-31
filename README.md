@@ -31,32 +31,37 @@ A simple command-line calculator with full error handling, supporting all basic 
 ## Installation
 ```bash
 git clone https://github.com/your-username/python-calculator.git
-cd CALCULATOR-PY
+cd basic-calc-py
+```
 
 ## How to use
-Run the calculator
+
+Run the calculator: 
 ```bash
 python calc.py
+```
 
-Example:
-
+**Example:**
+```
 🧮 Python Calculator 🧮
 Operations: + (Add), - (Subtract), * (Multiply), / (Divide), % (Modulus)
 Enter first number: 15
 Enter second number: 4
 Enter operation (+, -, *, /, %): %
-
 15 % 4 = 3
+```
 
 ## 📚 Learning Resources
- Great for beginners to learn:
- Basic Python syntax
- User input handling
- Error management
- Arithmetic operations
- Clean code practices
 
- ## Author 
- Natalie Awinja
- Computer Science, Multimedia University of Kenya
- Github @Keli281 
+Great for beginners to learn:
+- Basic Python syntax
+- User input handling
+- Error management
+- Arithmetic operations
+- Clean code practices
+
+## Author
+
+Natalie Awinja  
+Computer Science, Multimedia University of Kenya  
+GitHub [@Keli281](https://github.com/Keli281)
