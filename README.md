@@ -60,9 +60,9 @@ Great for beginners to learn:
 - Arithmetic operations
 - Clean code practices
 
-## License
+## 📄 License
 
-This project is open-source. Feel free to use or improve it!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
